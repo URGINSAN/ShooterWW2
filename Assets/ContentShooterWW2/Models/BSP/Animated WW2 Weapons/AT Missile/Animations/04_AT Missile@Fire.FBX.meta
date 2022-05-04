@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 421ba8704f6b7dd4aab767e82dbfc3bf
+timeCreated: 1480539986
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Bone
+    100006: Bone1
+    100008: Bone10
+    100010: Bone11
+    100012: Bone12
+    100014: Bone13
+    100016: Bone14
+    100018: Bone15
+    100020: Bone16
+    100022: Bone17
+    100024: Bone18
+    100026: Bone19
+    100028: Bone2
+    100030: Bone20
+    100032: Bone21
+    100034: Bone22
+    100036: Bone23
+    100038: Bone24
+    100040: Bone25
+    100042: Bone26
+    100044: Bone27
+    100046: Bone28
+    100048: Bone29
+    100050: Bone3
+    100052: Bone30
+    100054: Bone31
+    100056: Bone32
+    100058: Bone33
+    100060: Bone34
+    100062: Bone35
+    100064: Bone36
+    100066: Bone37
+    100068: Bone38
+    100070: Bone39
+    100072: Bone4
+    100074: Bone44
+    100076: Bone45
+    100078: Bone5
+    100080: Bone6
+    100082: Bone7
+    100084: Bone8
+    100086: Bone9
+    100088: FIRESPOT
+    100090: gun
+    100092: HIDEWHENEMPTY1
+    100094: SMOKE
+    400000: //RootNode
+    400002: body
+    400004: Bone
+    400006: Bone1
+    400008: Bone10
+    400010: Bone11
+    400012: Bone12
+    400014: Bone13
+    400016: Bone14
+    400018: Bone15
+    400020: Bone16
+    400022: Bone17
+    400024: Bone18
+    400026: Bone19
+    400028: Bone2
+    400030: Bone20
+    400032: Bone21
+    400034: Bone22
+    400036: Bone23
+    400038: Bone24
+    400040: Bone25
+    400042: Bone26
+    400044: Bone27
+    400046: Bone28
+    400048: Bone29
+    400050: Bone3
+    400052: Bone30
+    400054: Bone31
+    400056: Bone32
+    400058: Bone33
+    400060: Bone34
+    400062: Bone35
+    400064: Bone36
+    400066: Bone37
+    400068: Bone38
+    400070: Bone39
+    400072: Bone4
+    400074: Bone44
+    400076: Bone45
+    400078: Bone5
+    400080: Bone6
+    400082: Bone7
+    400084: Bone8
+    400086: Bone9
+    400088: FIRESPOT
+    400090: gun
+    400092: HIDEWHENEMPTY1
+    400094: SMOKE
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

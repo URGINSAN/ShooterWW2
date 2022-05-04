@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 4caaf9ab4e9be834988f5c771e04d372
+timeCreated: 1480539988
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Bone
+    100006: Bone1
+    100008: Bone10
+    100010: Bone11
+    100012: Bone12
+    100014: Bone13
+    100016: Bone14
+    100018: Bone15
+    100020: Bone16
+    100022: Bone17
+    100024: Bone18
+    100026: Bone19
+    100028: Bone2
+    100030: Bone20
+    100032: Bone21
+    100034: Bone22
+    100036: Bone23
+    100038: Bone24
+    100040: Bone25
+    100042: Bone26
+    100044: Bone27
+    100046: Bone28
+    100048: Bone29
+    100050: Bone3
+    100052: Bone30
+    100054: Bone31
+    100056: Bone32
+    100058: Bone33
+    100060: Bone34
+    100062: Bone35
+    100064: Bone36
+    100066: Bone37
+    100068: Bone38
+    100070: Bone39
+    100072: Bone4
+    100074: Bone40
+    100076: Bone41
+    100078: Bone44
+    100080: Bone45
+    100082: Bone5
+    100084: Bone6
+    100086: Bone7
+    100088: Bone8
+    100090: Bone9
+    100092: FIRESPOT
+    100094: gun
+    100096: mag
+    100098: SMOKE
+    400000: //RootNode
+    400002: body
+    400004: Bone
+    400006: Bone1
+    400008: Bone10
+    400010: Bone11
+    400012: Bone12
+    400014: Bone13
+    400016: Bone14
+    400018: Bone15
+    400020: Bone16
+    400022: Bone17
+    400024: Bone18
+    400026: Bone19
+    400028: Bone2
+    400030: Bone20
+    400032: Bone21
+    400034: Bone22
+    400036: Bone23
+    400038: Bone24
+    400040: Bone25
+    400042: Bone26
+    400044: Bone27
+    400046: Bone28
+    400048: Bone29
+    400050: Bone3
+    400052: Bone30
+    400054: Bone31
+    400056: Bone32
+    400058: Bone33
+    400060: Bone34
+    400062: Bone35
+    400064: Bone36
+    400066: Bone37
+    400068: Bone38
+    400070: Bone39
+    400072: Bone4
+    400074: Bone40
+    400076: Bone41
+    400078: Bone44
+    400080: Bone45
+    400082: Bone5
+    400084: Bone6
+    400086: Bone7
+    400088: Bone8
+    400090: Bone9
+    400092: FIRESPOT
+    400094: gun
+    400096: mag
+    400098: SMOKE
+    7400000: AutomaticFire
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AutomaticFire
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: body/Bone1
+        weight: 1
+      - path: body/Bone1/Bone2
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone5
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone5/Bone6
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone5/Bone6/Bone7
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone8
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone8/Bone9
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone8/Bone9/Bone10
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone11
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone11/Bone12
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone11/Bone12/Bone13
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone14
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone14/Bone15
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone14/Bone15/Bone16
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone17
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone17/Bone18
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone17/Bone18/Bone19
+        weight: 1
+      - path: body/Bone1/Bone2/Bone3/Bone4/Bone17/Bone18/Bone19/Bone44
+        weight: 1
+      - path: body/Bone20
+        weight: 1
+      - path: body/Bone20/Bone21
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone24
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone24/Bone25
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone24/Bone25/Bone26
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone27
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone27/Bone28
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone27/Bone28/Bone29
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone30
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone30/Bone31
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone30/Bone31/Bone32
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone33
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone33/Bone34
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone33/Bone34/Bone35
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone36
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone36/Bone37
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone36/Bone37/Bone38
+        weight: 1
+      - path: body/Bone20/Bone21/Bone22/Bone23/Bone36/Bone37/Bone38/Bone45
+        weight: 1
+      - path: body/gun
+        weight: 1
+      - path: body/gun/Bone
+        weight: 1
+      - path: body/gun/Bone39
+        weight: 1
+      - path: body/gun/Bone41
+        weight: 1
+      - path: body/gun/Bone41/Bone40
+        weight: 1
+      - path: body/gun/FIRESPOT
+        weight: 1
+      - path: body/gun/mag
+        weight: 1
+      - path: body/gun/SMOKE
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

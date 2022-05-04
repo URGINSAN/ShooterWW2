@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: bd5da21ecf63cc64cbce1192dc124fd7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: Bone
+    100004: Bone1
+    100006: Bone10
+    100008: Bone11
+    100010: Bone12
+    100012: Bone13
+    100014: Bone14
+    100016: Bone15
+    100018: Bone16
+    100020: Bone17
+    100022: Bone18
+    100024: Bone19
+    100026: Bone2
+    100028: Bone20
+    100030: Bone21
+    100032: Bone22
+    100034: Bone23
+    100036: Bone24
+    100038: Bone25
+    100040: Bone26
+    100042: Bone27
+    100044: Bone28
+    100046: Bone29
+    100048: Bone3
+    100050: Bone30
+    100052: Bone31
+    100054: Bone32
+    100056: Bone33
+    100058: Bone34
+    100060: Bone35
+    100062: Bone36
+    100064: Bone37
+    100066: Bone38
+    100068: Bone39
+    100070: Bone4
+    100072: Bone41
+    100074: Bone42
+    100076: Bone43
+    100078: Bone44
+    100080: Bone45
+    100082: Bone5
+    100084: Bone6
+    100086: Bone7
+    100088: Bone8
+    100090: Bone9
+    100092: FIRESPOT
+    100094: gun
+    100096: //RootNode
+    100098: Pistol-P8
+    100100: SMOKE
+    400000: body
+    400002: Bone
+    400004: Bone1
+    400006: Bone10
+    400008: Bone11
+    400010: Bone12
+    400012: Bone13
+    400014: Bone14
+    400016: Bone15
+    400018: Bone16
+    400020: Bone17
+    400022: Bone18
+    400024: Bone19
+    400026: Bone2
+    400028: Bone20
+    400030: Bone21
+    400032: Bone22
+    400034: Bone23
+    400036: Bone24
+    400038: Bone25
+    400040: Bone26
+    400042: Bone27
+    400044: Bone28
+    400046: Bone29
+    400048: Bone3
+    400050: Bone30
+    400052: Bone31
+    400054: Bone32
+    400056: Bone33
+    400058: Bone34
+    400060: Bone35
+    400062: Bone36
+    400064: Bone37
+    400066: Bone38
+    400068: Bone39
+    400070: Bone4
+    400072: Bone41
+    400074: Bone42
+    400076: Bone43
+    400078: Bone44
+    400080: Bone45
+    400082: Bone5
+    400084: Bone6
+    400086: Bone7
+    400088: Bone8
+    400090: Bone9
+    400092: FIRESPOT
+    400094: gun
+    400096: Pistol-P8
+    400098: //RootNode
+    400100: SMOKE
+    4300000: Pistol-P8
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Pistol-P8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 6cdbe159769844448848da9034615d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 702a11ee9fa25224cb315b1598a3b876, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

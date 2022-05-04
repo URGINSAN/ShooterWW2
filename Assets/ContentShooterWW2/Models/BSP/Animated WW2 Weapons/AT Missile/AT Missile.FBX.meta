@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 37e686c839b4eb147ac851e9afc9b640
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AT Missile
+    100004: body
+    100006: Bone
+    100008: Bone1
+    100010: Bone10
+    100012: Bone11
+    100014: Bone12
+    100016: Bone13
+    100018: Bone14
+    100020: Bone15
+    100022: Bone16
+    100024: Bone17
+    100026: Bone18
+    100028: Bone19
+    100030: Bone2
+    100032: Bone20
+    100034: Bone21
+    100036: Bone22
+    100038: Bone23
+    100040: Bone24
+    100042: Bone25
+    100044: Bone26
+    100046: Bone27
+    100048: Bone28
+    100050: Bone29
+    100052: Bone3
+    100054: Bone30
+    100056: Bone31
+    100058: Bone32
+    100060: Bone33
+    100062: Bone34
+    100064: Bone35
+    100066: Bone36
+    100068: Bone37
+    100070: Bone38
+    100072: Bone39
+    100074: Bone4
+    100076: Bone44
+    100078: Bone45
+    100080: Bone5
+    100082: Bone6
+    100084: Bone7
+    100086: Bone8
+    100088: Bone9
+    100090: FIRESPOT
+    100092: gun
+    100094: HIDEWHENEMPTY1
+    100096: SMOKE
+    400000: AT Missile
+    400002: //RootNode
+    400004: body
+    400006: Bone
+    400008: Bone1
+    400010: Bone10
+    400012: Bone11
+    400014: Bone12
+    400016: Bone13
+    400018: Bone14
+    400020: Bone15
+    400022: Bone16
+    400024: Bone17
+    400026: Bone18
+    400028: Bone19
+    400030: Bone2
+    400032: Bone20
+    400034: Bone21
+    400036: Bone22
+    400038: Bone23
+    400040: Bone24
+    400042: Bone25
+    400044: Bone26
+    400046: Bone27
+    400048: Bone28
+    400050: Bone29
+    400052: Bone3
+    400054: Bone30
+    400056: Bone31
+    400058: Bone32
+    400060: Bone33
+    400062: Bone34
+    400064: Bone35
+    400066: Bone36
+    400068: Bone37
+    400070: Bone38
+    400072: Bone39
+    400074: Bone4
+    400076: Bone44
+    400078: Bone45
+    400080: Bone5
+    400082: Bone6
+    400084: Bone7
+    400086: Bone8
+    400088: Bone9
+    400090: FIRESPOT
+    400092: gun
+    400094: HIDEWHENEMPTY1
+    400096: SMOKE
+    4300000: AT Missile
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: AT Missile
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 99144109c04e26f4fbace130047d04fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 11be23c8ce9077348bd83bc0e598b8e2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
